@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <b>Discord:</b> hook.op &nbsp;|&nbsp; <b>User ID:</b> 1319280095474745384
+  <b>Discord:</b> deaggilisspees &nbsp;|&nbsp; <b>User ID:</b> 1319280095474745384
   <br/><br/>
   <a href="https://www.youtube.com/channel/UC9DN1_EUN8irsYqXp0uAeXg" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="youtube" height="30"/>
