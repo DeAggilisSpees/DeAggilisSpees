@@ -6,7 +6,7 @@
 </p>
 
 <h3 align="left">🖥️ Currently Learning:</h3>
-<p align="left">Virtual Machines (VMs)</p>
+<p align="left">Web Developement (HTML, CSS, JS)</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
